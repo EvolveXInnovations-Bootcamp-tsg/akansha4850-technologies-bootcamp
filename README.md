@@ -1,4 +1,4 @@
-# Dart Bootcamp
+# Python Bootcamp
 
 Student: @akansha4850
 
